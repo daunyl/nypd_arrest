@@ -31,3 +31,5 @@ Metadata Last Updated
 3. **Step 3:** Data Cleaning + Preprocessing
 4. **Step 4:** Data Analysis + Visualization
 5. **NYPD Arrest Data Final Results**
+
+## [Project notebook](data_analysis.ipynb)
